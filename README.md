@@ -1,1 +1,1 @@
-# gedil2a_l4a
+This tutorial shows how to reproduce L4A aboveground biomass density (AGBD) estimates using L2A relative height (RH) metrics
